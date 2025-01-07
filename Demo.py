@@ -12,3 +12,5 @@ data = {
 df = pd.DataFrame(data)
 
 print("/n DataFrame: "  , df.dtypes)
+
+second changes added
